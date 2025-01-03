@@ -44,3 +44,14 @@
 [23:01:14] [Server thread/INFO]: View this and more helpful information here: https://docs.papermc.io/paper/next-steps
 [23:01:14] [Server thread/INFO]: *************************************************************************************
 [23:01:14] [Server thread/INFO]: Timings Reset
+[23:23:54] [User Authenticator #0/INFO]: UUID of player RML08 is cfd14a21-0c2f-3f83-9d7d-4b351ad8d933
+[23:23:56] [Server thread/INFO]: RML08 joined the game
+[23:23:56] [Server thread/INFO]: RML08[/[0:0:0:0:0:0:0:1%0]:42902] logged in with entity id 173 at ([world]-31.5, 72.0, -9.5)
+[23:24:10] [Async Chat Thread - #0/INFO]: [Not Secure] <RML08> hola
+[23:27:18] [Server thread/INFO]: RML08 has made the advancement [Stone Age]
+[23:27:45] [Server thread/INFO]: RML08 has made the advancement [Getting an Upgrade]
+[23:29:23] [User Authenticator #1/INFO]: UUID of player RML08 is cfd14a21-0c2f-3f83-9d7d-4b351ad8d933
+[23:29:23] [Server thread/INFO]: RML08 lost connection: You logged in from another location
+[23:29:24] [Server thread/INFO]: RML08 left the game
+[23:29:26] [Server thread/INFO]: RML08 joined the game
+[23:29:26] [Server thread/INFO]: RML08[/[0:0:0:0:0:0:0:1%0]:40710] logged in with entity id 3088 at ([world]59.91531142158581, 66.0, -59.555957884881316)
